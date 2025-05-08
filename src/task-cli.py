@@ -10,8 +10,8 @@ status_map = {
 
 
 def help():
-    print("add <description>")
-    print("update <task-id> <description>")
+    print('add "<description>"')
+    print('update <task-id> "<description>"')
     print("delete <task-id>")
     print("mark-in-progress <task-id>")
     print("mark-done <task-id>")
